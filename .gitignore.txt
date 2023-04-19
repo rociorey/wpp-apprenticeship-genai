@@ -1,7 +1,9 @@
 Chatbot/myToken.txt
+Chatbot/myToken.txt.txt
 Chatbot/myToken
 
 ChatGPTEmail/myToken.txt
+ChatGPTEmail/myToken.txt.txt
 ChatGPTEmail/myToken
 
 myToken.txt

@@ -1,6 +1,7 @@
 import openai
 import discord
 import requests
+import os
 
 
 openai.api_type = "azure"

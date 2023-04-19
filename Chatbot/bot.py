@@ -2,7 +2,6 @@ import openai
 import discord
 import requests
 
-# testy testy
 
 openai.api_type = "azure"
 openai.api_version = "2023-03-15-preview"
@@ -17,7 +16,6 @@ openai.api_key = os.environ["API_KEY"]
 DISCORD_TOKEN = os.environ["DISCORD_TOKEN"]
 openai.api_base = os.environ["API_BASE"]
 api_key = os.environ["API_CRYPTO"]
-
 
 
 @client.event

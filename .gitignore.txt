@@ -9,6 +9,9 @@ ChatGPTEmail/myToken
 myToken.txt
 myToken
 
+superstuff.txt
+superstuff
+
 /myToken.txt
 /myToken
 

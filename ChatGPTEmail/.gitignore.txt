@@ -1,6 +1,9 @@
 myToken.txt
 myToken
 
+keys
+keys.txt
+
 venv
 /venv
 

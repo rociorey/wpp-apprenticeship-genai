@@ -15,6 +15,12 @@ myToken
 myToken.txt/
 myToken/
 
+Chatbot/keys.txt
+ChatGPTEmail/keys.txt
+
+keys
+keys.txt
+
 venv
 /venv
 

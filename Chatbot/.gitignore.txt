@@ -91,6 +91,8 @@ target/
 myToken.txt
 myToken
 myToken.txt.txt
+keys
+keys.txt
 
 # IPython
 profile_default/

@@ -1,0 +1,24 @@
+Chatbot/myToken.txt
+Chatbot/myToken
+
+ChatGPTEmail/myToken.txt
+ChatGPTEmail/myToken
+
+myToken.txt
+myToken
+
+/myToken.txt
+/myToken
+
+myToken.txt/
+myToken/
+
+venv
+/venv
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/

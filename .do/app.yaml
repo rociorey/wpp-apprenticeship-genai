@@ -1,5 +1,5 @@
-name: seahorse-app
-region: nyc  
+name: king-prawn-app
+region: London  
 workers:  
   - name: worker  
     environment_slug: python  

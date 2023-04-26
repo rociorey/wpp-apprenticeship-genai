@@ -8,6 +8,7 @@ openai.api_type = "azure"
 openai.api_version = "2023-03-15-preview"
 
 
+
 # guild is another word for server
 GUILD = '{Creative-Tech-Apprenticeship}'
 
@@ -100,3 +101,5 @@ async def on_message(message):
 
 
 client.run(DISCORD_TOKEN)
+
+# Test comment

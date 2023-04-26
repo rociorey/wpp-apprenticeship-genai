@@ -78,6 +78,8 @@ print(f"Today's price: {rounded_today_value}£ - Yesterday's price: {rounded_yes
 async def on_message(message):
     if message.author == client.user:
         return
+    if message.mention_everyone:
+        return
     elif client.user.mentioned_in(message):
         # Chat completions with chat-gpt 
         response = openai.ChatCompletion.create(
